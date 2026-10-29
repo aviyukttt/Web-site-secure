@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "SiteGuard Auditor" },
+    { "path": "/404", "title": "Not found" }
+  ]
+}
